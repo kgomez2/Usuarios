@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(250, 201, 209);
+    color: black;
+    text-align: center;
+}
+h1{
+    border-style: dotted;   
+}
+h2{
+    margin: 60px;
+    border: 1px solid black;
+}
+p{
+            
+}
+
